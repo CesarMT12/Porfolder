@@ -2,3 +2,15 @@ body{
     background-color: pink;
     padding: 0;
 }
+
+.main-menu{
+    list-style: none;
+    padding: 0;
+    display:flex
+}
+
+.social-menu{
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
